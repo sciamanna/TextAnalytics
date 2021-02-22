@@ -6,7 +6,7 @@ Android | iOS     | Windows
 Med app for Android | Med app for iOs | Med app for Win
 Med app for Android fdfdiuouod | dsoid; d sudosiud Med app for iOs | d disduud Med app for Win fdiudfoidoiu
 [Play](https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479324#questions/8430128) | [other link ](https://www.udemy.com/course/git-and-github-masterclass/learn/lecture/14479324#questions/8430128)
-![Agile KPIs](https://images.idgesg.net/images/article/2017/08/ios-logo-icon-100733550-large.3x2.jpg)
+![Agile KPIs](https://images.idgesg.net/images/article/2017/08/ios-logo-icon-100733550-large.3x2.jpg) | [![](https://img.youtube.com/vi/RSaIOCHbuYw/maxresdefault.jpg)](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 
 ~~I'm *__going__* to create an awose markdown file!~~
 >Every master was once a disaster
